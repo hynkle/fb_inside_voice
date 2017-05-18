@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "FB Inside Voice",
-  "description": "On Facebook, changes those noisy large-text colorful-background posts to look like every other post—normal font size, black text on white background.",
+  "description": "Makes Facebook's large-text, color- and gradient-background posts look like every other normal, non-shouty post.",
   "version": "1.0",
   "icons": {
     "16": "icon16.png",
